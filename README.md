@@ -1,5 +1,5 @@
 # **Dash High**
-
+![DashHigh](https://github.com/acedmicabhishek/Dash-High/blob/main/DashHigh.png)
 ---
 
 ### **Overview**
